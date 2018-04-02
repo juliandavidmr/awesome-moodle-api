@@ -29,6 +29,7 @@
 - Tutorials
   - [How to use Moodle restful web services in Android app](https://moodle.org/mod/forum/discuss.php?d=322588)
   - [(Español) - Servicios web en Moodle 2.0](https://www.vitalinnova.com/servicios-web-en-moodle-2-0/)
+  - [Mastering moodle web services development](https://es.slideshare.net/juanleyva/mastering-moodle-web-services-development)
 - Books
 - Conferences
 
