@@ -28,7 +28,7 @@
 
 - Tutorials
   - [How to use Moodle restful web services in Android app](https://moodle.org/mod/forum/discuss.php?d=322588)
-  - [passport-auth-nestjs](https://github.com/Abdallah-khalil/NodeJsWithPassport) Passport strategies and oauth integration built with nestjs
+  - [(Español) - Servicios web en Moodle 2.0](https://www.vitalinnova.com/servicios-web-en-moodle-2-0/)
 - Books
 - Conferences
 
